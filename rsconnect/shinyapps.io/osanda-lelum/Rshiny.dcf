@@ -1,0 +1,13 @@
+name: Rshiny
+title: Rshiny
+username:
+account: osanda-lelum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9159553
+bundleId: 7247397
+url: https://osanda-lelum.shinyapps.io/Rshiny/
+when: 1684751969.10226
+lastSyncTime: 1684751969.10227
+asMultiple: FALSE
+asStatic: FALSE
