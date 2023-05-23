@@ -1,0 +1,13 @@
+name: DashboardPractice
+title: DashboardPractice
+username:
+account: osanda-lelum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9173108
+bundleId: 7255055
+url: https://osanda-lelum.shinyapps.io/DashboardPractice/
+when: 1684885300.06066
+lastSyncTime: 1684885300.06067
+asMultiple: FALSE
+asStatic: FALSE
